@@ -22,7 +22,8 @@
     }
 </style>
 <div class="text">
-    <p><h2>test</h2></p>
+    <p><h2>test2
+    </h2></p>
 </div>
 <div>
   <img class="img2" src="image/Avenger.jpg" >
